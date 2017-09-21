@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Basics
 {
@@ -7,6 +8,10 @@ namespace Basics
         static void Main(string[] args)
         {
             Console.WriteLine("Linq By Examples");
+            List<string> names = new List<string>
+            {
+
+            };
         }
     }
 }
